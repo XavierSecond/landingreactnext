@@ -13,7 +13,8 @@ module.exports = {
       fontFamily: 
       { primary: ["Poppins"] },
       backgroundImage: {
-        'welcome': "url('/assets/Polygon Luminary.svg')",
+        'welcome': "url('/assets/wave.svg')",
+        'services': "url('/images/carousel/03.jpg')",
       }
 
   },
