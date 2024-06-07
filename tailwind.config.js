@@ -14,7 +14,7 @@ module.exports = {
       { primary: ["Poppins"] },
       backgroundImage: {
         'welcome': "url('/assets/wave.svg')",
-        'services': "url('/images/carousel/03.jpg')",
+        'services': "url('/assets/service.svg')",
       }
 
   },
