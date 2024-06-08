@@ -16,6 +16,7 @@ module.exports = {
         'welcome': "url('/assets/wave.svg')",
         'services': "url('/assets/service.svg')",
         'contact': "url('/images/carousel/03.jpg')",
+        'about': "url('/images/carousel/02.jpg')",
       }
 
   },

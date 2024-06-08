@@ -1,5 +1,6 @@
 import { About } from '@/components/About/About'
 import { Contact } from '@/components/Contact/Contact'
+import { Footer } from '@/components/Footer/Footer'
 import MobileNav from '@/components/MobileNav/MobileNav'
 import Nav from '@/components/Nav/Nav'
 import { Offers } from '@/components/Offers/Offers'
@@ -25,6 +26,8 @@ const HomePage = () => {
       <About />
       {/* Contact */}
       <Contact />
+      {/* Footer */}
+      <Footer />
 
     </div>
   </div>

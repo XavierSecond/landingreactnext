@@ -32,7 +32,7 @@ export const Offers = () => {
               </div>
               
         </div>
-            <button className="text-[1.3rem] text-[#343432] leading-8 w-max h-fit bg-[white] font-medium px-6 py-3 rounded-xl cursor-pointer grid grid-flow-col auto-cols-max gap-2 shadow-2xl mx-auto mt-8 transform transition duration-500 hover:scale-110">More information<EnvelopeIcon className="text-[#343432] h-[2rem] w-[2rem]" ></EnvelopeIcon></button>
+            <a href="mailto:xilohe.revelo@clsolution.net" target="_blank"><button className="text-[1.3rem] text-[#343432] leading-8 w-max h-fit bg-[white] font-medium px-6 py-3 rounded-xl cursor-pointer grid grid-flow-col auto-cols-max gap-2 shadow-2xl mx-auto mt-8 transform transition duration-500 hover:scale-110">More information<EnvelopeIcon className="text-[#343432] h-[2rem] w-[2rem]" ></EnvelopeIcon></button></a>
       </div>
     </div>
   )
