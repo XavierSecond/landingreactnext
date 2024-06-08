@@ -15,6 +15,7 @@ module.exports = {
       backgroundImage: {
         'welcome': "url('/assets/wave.svg')",
         'services': "url('/assets/service.svg')",
+        'contact': "url('/images/carousel/03.jpg')",
       }
 
   },

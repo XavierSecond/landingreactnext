@@ -1,3 +1,5 @@
+import { About } from '@/components/About/About'
+import { Contact } from '@/components/Contact/Contact'
 import MobileNav from '@/components/MobileNav/MobileNav'
 import Nav from '@/components/Nav/Nav'
 import { Offers } from '@/components/Offers/Offers'
@@ -19,6 +21,10 @@ const HomePage = () => {
       <Welcome />
       {/* Services */}
       <Offers />
+      {/* About */}
+      <About />
+      {/* Contact */}
+      <Contact />
 
     </div>
   </div>
